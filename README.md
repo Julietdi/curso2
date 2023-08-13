@@ -1,2 +1,1 @@
-# curso2
-Repositorio de prueba por segunda vez (Modulo 2)
+Proyecto nuevamente de prueba para repositorio en github
